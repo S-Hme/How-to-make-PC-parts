@@ -50,9 +50,9 @@ header{
 .a-head p{
     margin-top: 80px;
     display: inline-block;
+    border-bottom:2px solid black;
     font-size: 30px;
     font-weight: 500;
-    border-bottom: 2px solid black;
 }
 
 
