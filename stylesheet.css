@@ -30,12 +30,27 @@ header{
 }
 
 .category{
- text-align:left;   
+    float:left;
+    text-align:left;   
 }
 
 .title-name{
+    padding-top: 45px;
     text-align: center;
     font-size: 50px;
+}
+
+.img{
+    position: relative;
+}
+
+.img1{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 600px;
+
+
 }
 
 .contents-title{
