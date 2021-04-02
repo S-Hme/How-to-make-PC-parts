@@ -4,7 +4,7 @@ body{
 
 header{
     background-color: rgba(100, 85, 85, 0.5);
-    line-height:50px;
+    line-height:40px;
     font-size: 30px;
     color:black;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
@@ -21,7 +21,7 @@ header{
 
 
 .title{
-    margin-top: 60px;
+    margin-top: 80px;
 }
 
 .category{
