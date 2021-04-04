@@ -19,6 +19,16 @@ header{
     z-index: 10;
 
 }
+.header-left{
+    float:left;
+}
+
+.header-right{
+    float:right;
+    height: 50px;
+    width:50px;
+    margin: right 30px; 
+}
 
 .main{
     margin-left: 40px;
@@ -98,6 +108,9 @@ header{
 
 
 @media(max-width:450px){
+    .main{
+        margin-left: 25px;
+    }
     .title-name{
         padding-top: 45px;
         text-align: center;
