@@ -27,7 +27,7 @@ header{
     float:right;
     height: 50px;
     width:50px;
-    margin:30px; 
+    margin-right:30px; 
 }
 
 .main{
@@ -127,3 +127,4 @@ header{
         width: 270px;
     }
 }
+
