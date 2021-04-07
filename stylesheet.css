@@ -18,10 +18,9 @@ header{
     font-weight: 600;
     width: 100%;
     position: fixed;
-    top:0;
+    top: 0;
     z-index: 10;
     height: 50px;
-    position: relative;
 }
 
 
@@ -135,7 +134,7 @@ header{
 
 @media(max-width:450px){
     .main{
-        margin: 0 40px;
+        margin: 0 20px;
     }
     .title-name{
         padding-top: 45px;
@@ -152,9 +151,8 @@ header{
         height: 260px;
         width: 270px;
     }
-   .header-center{
+    .header-center{
         margin-left: 0%;
     }
 
 }
-
