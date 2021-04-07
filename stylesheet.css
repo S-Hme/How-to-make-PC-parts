@@ -135,8 +135,7 @@ header{
 
 @media(max-width:450px){
     .main{
-        width: 420px;
-        margin:0 auto;
+        margin: 0 40px;
     }
     .title-name{
         padding-top: 45px;
