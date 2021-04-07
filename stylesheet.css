@@ -153,8 +153,8 @@ header{
         height: 260px;
         width: 270px;
     }
-    .header-center{
-        float: left;
+   .header-center{
+        margin-left: 0%;
     }
 
 }
