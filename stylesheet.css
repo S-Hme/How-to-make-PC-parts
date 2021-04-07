@@ -11,7 +11,7 @@ a:hover{
 }
 
 header{
-    background-color: rgba(100, 85, 85, 0.5);
+    background-color: rgba(0, 170, 255, 0.8);
     font-size: 30px;
     color:black;
     font-family:MS PGothic;
@@ -20,15 +20,34 @@ header{
     position: fixed;
     top:0;
     z-index: 10;
-
+    height: 50px;
+    position: relative;
 }
-.header-left{
-    float:left;
-    line-height:50px;
+
+
+
+.container div{
+    display: inline-block;
+    height: 50px;
+    vertical-align: middle;
+}
+
+.header-center{
+    margin-left: 45%;
+}
+
+.paletteimg{
+    height: 50px;
+    width: 150px;
+    opacity: 0.8;
+    color: black;
+    line-height: 50px;
+    font-family: Arial Black;
 }
 
 .header-right{
     float:right;
+
 }
 
 .twitter{
@@ -116,7 +135,8 @@ header{
 
 @media(max-width:450px){
     .main{
-        margin-left: 25px;
+        width: 420px;
+        margin:0 auto;
     }
     .title-name{
         padding-top: 45px;
@@ -133,5 +153,9 @@ header{
         height: 260px;
         width: 270px;
     }
+    .header-center{
+        float: left;
+    }
+
 }
 
