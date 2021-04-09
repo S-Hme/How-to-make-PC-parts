@@ -121,38 +121,3 @@ header{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-@media(max-width:450px){
-    .main{
-        margin: 0 20px;
-    }
-    .title-name{
-        padding-top: 45px;
-        text-align: center;
-        font-size: 30px;
-    }
-    .contents-title{
-        padding:30px 0 0 40px ;
-        font-size: 20px;
-    }
-    .contents {
-        font-size: 20px;
-        background-color: rgb(179, 212, 241);
-        height: 260px;
-        width: 270px;
-    }
-    .header-center{
-        margin-left: 0%;
-    }
-
-}
