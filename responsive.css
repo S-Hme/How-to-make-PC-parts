@@ -1,3 +1,5 @@
+
+/*　スマホ版表示　*/
 @media all and (max-width:670px){
 
     .header-center{
@@ -47,4 +49,9 @@
         margin: 0 10px;
     }
 
+    .expimg{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
 }
