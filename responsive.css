@@ -29,6 +29,7 @@
     }
 
     .title-nameB{
+        display: block;
         padding-top: 45px;
         text-align: center;
         font-size: 30px;
