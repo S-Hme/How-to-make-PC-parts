@@ -25,6 +25,10 @@
     }
     
     .title-name{
+        display: none;
+    }
+
+    .title-nameB{
         padding-top: 45px;
         text-align: center;
         font-size: 30px;
