@@ -17,6 +17,8 @@
 
     .main{
         width: 100%;
+        background-color: white;
+        margin-left: 0%;
     }
 
     .title{
@@ -58,5 +60,9 @@
         display: block;
         width: 100%;
         height: auto;
+    }
+
+    .rightP{
+        display: none;
     }
 }
