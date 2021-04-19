@@ -8,6 +8,19 @@ li{
     list-style: none;
 }
 
+.fontWeight600{
+    font-weight: 600;
+}
+
+.red{
+    color:red;
+}
+
+.red600{
+    color: red;
+    font-weight: 600;
+}
+
 a:hover{
     opacity: 0.5;
 }
@@ -56,6 +69,8 @@ header{
     width:50px;
     margin-right:15px; 
 }
+
+/*      文章      */
 
 .title{
     margin-top: 60px;
@@ -126,12 +141,25 @@ header{
 
 .role{
     padding-bottom: 20px;
+    font-weight: 700;
 }
 
-.caution{
-    color:red;
+.tips{
+    margin-top: 70px;
+    border: 4px solid rgb(238, 234, 0);
+    border-radius: 10px;
+    display: flex;
 }
 
+.fa-lightbulb{
+    color: rgb(238, 234, 0);
+    font-size: 3.5em;
+    padding-left: 20px;
+}
+
+.tips div{
+    padding: 20px 0 15px 20px;
+}
 
 .conclude p{
     margin: 80px 0 0 80px;
